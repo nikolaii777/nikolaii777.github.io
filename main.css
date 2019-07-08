@@ -23,3 +23,23 @@ img{
     display: flex;
     align-items: center;
 } 
+.list{
+    background-color: #CDDC39;
+}
+#introduction{
+    border: 20px solid chocolate;
+}
+.centre{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.titlecl{
+    color: cornsilk
+} 
+
+.row{
+    padding: 30px;
+    width:  400px;
+    height: auto;
+}
