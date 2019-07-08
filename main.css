@@ -24,10 +24,10 @@ img{
     align-items: center;
 } 
 .list{
-    background-color: #CDDC39;
+    /* background-color: #CDDC39; */
 }
 #introduction{
-    border: 20px solid chocolate;
+    /* border: 20px solid chocolate; */
 }
 .centre{
     margin-left: auto;
