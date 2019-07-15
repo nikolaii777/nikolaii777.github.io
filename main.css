@@ -1,34 +1,39 @@
 h1 {
     color: blueviolet;
     font-family: 'Orbitron', sans-serif;
-        
-} 
+        } 
+
+
 h2 {
     color: cornflowerblue;
     font-family: fantasy;
 } 
-h3 {
+.aboutme {
    color: coral;
    font-family: cursive; 
 } 
 p{  text-align: center;
-    color: deeppink;
+    color: cornflowerblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif
 } 
 body{
-    background-color: black;
+    background-color: white;
 }
 img{
-    width: 55%;
+    width: 45%;
     display: flex;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
 }
-} 
+
+
 .list{
     /* background-color: #CDDC39; */
+    color: orangered;
+    font-family: 'Orbitron', sans-serif;
 }
+
 #introduction{
     /* border: 20px solid chocolate; */
 }
@@ -65,8 +70,39 @@ img{
 } 
 
 .core{
-    color: firebrick
+    color: firebrick;
     font-family: fantasy; 
     
     
 }
+.mihi{
+    text-align: center;
+    color: #9E9E9E;
+    font-family: cursive;
+}
+
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  .btn:hover {background: #eee;}
+  
+  .Home {color: green;}
+  .Hell {color: dodgerblue;}
+  .warning {color: orange;}
+  .danger {color: red;}
+  .default {color: blanchedalmond ;} 
+
+  .analogy {
+      color: black; 
+  } 
+  .colorana {
+      color: black;
+      line-height: 1.6;
+  }
