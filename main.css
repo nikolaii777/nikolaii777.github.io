@@ -1,108 +1,115 @@
 h1 {
-    color: blueviolet;
-    font-family: 'Orbitron', sans-serif;
-        } 
-
+  color: blueviolet;
+  font-family: 'Orbitron', sans-serif;
+}
 
 h2 {
-    color: cornflowerblue;
-    font-family: fantasy;
-} 
+  color: cornflowerblue;
+  font-family: fantasy;
+}
 .aboutme {
-   color: coral;
-   font-family: cursive; 
-} 
-p{  text-align: center;
-    color: cornflowerblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
-} 
-body{
-    background-color: white;
+  color: coral;
+  font-family: cursive;
 }
-img{
-    width: 35%;
-    display: flex;
-    align-items: center;
-    margin-left: auto;
-    margin-right: auto;
+p {
+  text-align: center;
+  color: cornflowerblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
-
-.list{
-    /* background-color: #CDDC39; */
-    color: orangered;
-    font-family: 'Orbitron', sans-serif;
+body {
+  background-color: white;
+}
+img {
+  width: 35%;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-#introduction{
-    /* border: 20px solid chocolate; */
+.list {
+  /* background-color: #CDDC39; */
+  color: orangered;
+  font-family: 'Orbitron', sans-serif;
 }
-.centre{
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-.titlecl{
-    color: cornsilk
-} 
 
-.row{
-    padding: 30px;
-    width:  400px;
-    height: auto; 
+#introduction {
+  /* border: 20px solid chocolate; */
+}
+.centre {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.titlecl {
+  color: cornsilk;
+}
+
+.row {
+  padding: 30px;
+  width: 400px;
+  height: auto;
 }
 #emotional {
-    width: 52%;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    align-items: center;
+  width: 52%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
 }
-.background{
-    background-image: url("https://images.pexels.com/photos/1376766/nature-milky-way-galaxy-space-1376766.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+.background {
+  background-image: url('https://images.pexels.com/photos/1376766/nature-milky-way-galaxy-space-1376766.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
 }
-.list-items{
-    color: greenyellow
+.list-items {
+  color: greenyellow;
 }
-.questions{
-    color: mintcream 
-    
-} 
-
-.core{
-    color: firebrick;
-    font-family: fantasy; 
-    
-    
-}
-.mihi{
-    text-align: center;
-    color: #9E9E9E;
-    font-family: cursive;
+.questions {
+  color: black;
 }
 
+.core {
+  color: firebrick;
+  font-family: fantasy;
+}
+.mihi {
+  text-align: center;
+  color: #9e9e9e;
+  font-family: cursive;
+}
 
 .btn {
-    border: none;
-    background-color: inherit;
-    padding: 14px 28px;
-    font-size: 16px;
-    cursor: pointer;
-    display: inline-block;
-  }
-  
-  .btn:hover {background: #eee;}
-  
-  .Home {color: green;}
-  .Hell {color: dodgerblue;}
-  .warning {color: orange;}
-  .danger {color: red;}
-  .default {color: blanchedalmond ;} 
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
 
-  .analogy {
-      color: black; 
-  } 
-  .colorana {
-      color: black;
-      line-height: 1.6;
-  }
+.btn:hover {
+  background: #eee;
+}
+
+.Home {
+  color: green;
+}
+.Hell {
+  color: dodgerblue;
+}
+.warning {
+  color: orange;
+}
+.danger {
+  color: red;
+}
+.default {
+  color: blanchedalmond;
+}
+
+.analogy {
+  color: black;
+}
+.colorana {
+  color: black;
+  line-height: 1.6;
+}
