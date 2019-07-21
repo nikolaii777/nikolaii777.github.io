@@ -110,6 +110,10 @@ img {
   color: black;
 }
 .colorana {
-  color: black;
+  color: white;
   line-height: 1.6;
+  font-family: cursive;
+}
+.bck {
+  background-color: olive;
 }
